@@ -1,0 +1,28 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 小鱼的航程 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\胡冬阳\AppData\Local\Temp\RSP4516.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/小鱼的航程.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"D:\C\works\小鱼的航程\1.c"
+]
+Creating command line "cl.exe @"C:\Users\胡冬阳\AppData\Local\Temp\RSP4516.tmp"" 
+<h3>Output Window</h3>
+Compiling...
+1.c
+D:\C\works\小鱼的航程\1.c(24) : error C2143: syntax error : missing ';' before 'type'
+D:\C\works\小鱼的航程\1.c(26) : error C2065: 'result' : undeclared identifier
+执行 cl.exe 时出错.
+
+
+
+<h3>Results</h3>
+1.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
