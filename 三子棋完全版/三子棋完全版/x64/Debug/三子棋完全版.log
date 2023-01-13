@@ -1,0 +1,5 @@
+﻿  三子棋完全版.cpp
+D:\C\works\三子棋完全版\三子棋完全版\三子棋完全版.cpp(27,10): warning C4101: “a”: 未引用的局部变量
+D:\C\works\三子棋完全版\三子棋完全版\三子棋完全版.cpp(27,12): warning C4101: “b”: 未引用的局部变量
+D:\C\works\三子棋完全版\三子棋完全版\三子棋完全版.cpp(128,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  三子棋完全版.vcxproj -> D:\C\works\三子棋完全版\x64\Debug\三子棋完全版.exe
