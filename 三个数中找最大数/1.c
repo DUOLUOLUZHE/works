@@ -1,3 +1,4 @@
+//7、完成通过键盘输入三个数，并且将他们从小到大排列
 #include<stdio.h>
 void main()
 {
